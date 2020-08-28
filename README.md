@@ -1,4 +1,4 @@
-# BBS-Ubuntu-Python
+# 掲示板を作ってみよう！！
 
 ## 概要
 ubuntu上でSQL,pythonを使って掲示板を作成するというもの  
